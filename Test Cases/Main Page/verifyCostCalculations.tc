@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verifying calculation costs</description>
+   <name>verifyCostCalculations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d4b26b0-d108-4744-ab57-7b409bd918a9</testCaseGuid>
+</TestCaseEntity>
