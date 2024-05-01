@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Exhibits Only (95.00)</name>
+   <tag></tag>
+   <elementGuidId>0f4605e6-36f3-4b23-a46b-aadee313b34d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='regSession']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#regSession</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Exhibits Only ($95.00)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>156658f4-4588-4c3b-9df5-036de3533297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>regSession</value>
+      <webElementGuid>4db36835-89d3-4e14-bdf3-734f748d7fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exhibits Only ($95.00)</value>
+      <webElementGuid>1220239f-5f25-47b2-b1a9-513e51b09379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;regSession&quot;)</value>
+      <webElementGuid>c3347b53-d911-4b61-9b6b-600275b898cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='regSession']</value>
+      <webElementGuid>6d2b2553-3e01-4708-acba-3963de2767e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='reg2Aside']/table/tbody/tr[3]/td/span</value>
+      <webElementGuid>14980cac-7336-449e-a8a2-8113c943a2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session'])[1]/following::span[1]</value>
+      <webElementGuid>f7ec240a-7ed8-4911-8ec3-c95dd7427710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::span[2]</value>
+      <webElementGuid>e18274b7-0339-4dda-8117-21569e8562a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banquet Guest ($70 ea.)'])[1]/preceding::span[1]</value>
+      <webElementGuid>08e68e53-adca-4d6d-b7a3-9a4f4ab21818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/preceding::span[1]</value>
+      <webElementGuid>e4f985cb-3d5a-4639-8465-aed4a5458294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Exhibits Only ($95.00)']/parent::*</value>
+      <webElementGuid>5ea40f1a-6b99-4ce7-af55-7fb3db45cf27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/span</value>
+      <webElementGuid>751e36de-2816-4cf3-aa63-0d75fda83a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'regSession' and (text() = 'Exhibits Only ($95.00)' or . = 'Exhibits Only ($95.00)')]</value>
+      <webElementGuid>8e1616f4-e91a-45a0-9810-a3664874de65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
